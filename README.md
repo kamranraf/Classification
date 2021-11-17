@@ -1,6 +1,8 @@
 # Classification
 Heart Attack Analysis and Prediction Dataset
 
+Data retrieved from Kaggle: https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset?select=heart.csv
+
 heart.csv is a dataset that contains heart disease classification data with 213 entries.
 
 I have attempted to apply three classification models to the dataset and assess the performance of each model. 

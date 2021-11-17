@@ -18,5 +18,5 @@ The models were assessed using:
 - Confusion matrix
 - Accuracy, precision, recall, F1 score
 - ROC (Receiver operating characteristic) curves
-  -ROC area under the curve (AOC)
+  - ROC area under the curve (AOC)
 
